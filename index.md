@@ -4,7 +4,7 @@ title: "Homepage"
 
 ## About Me
 
-一位普通学生(In China),爱好平面几何/组合数学,抽象代数学习中...
+一位普通学生,古典音乐爱好者,抽象代数学习中...
 
 这是我的个人博客,用来写一些好玩的,欢迎交友!
 
@@ -20,4 +20,4 @@ title: "Homepage"
 
 ## Other
 
-LoadingLoading......
+Loading......
