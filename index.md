@@ -1,8 +1,6 @@
-
-
-# Homepage
-
-
+---
+title: "Homepage"
+---
 
 ## About Me
 
