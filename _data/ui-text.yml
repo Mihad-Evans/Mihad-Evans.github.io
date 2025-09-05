@@ -1,6 +1,6 @@
 # User interface text and labels
 
-# Chinese (traditional)
+# English
 # -----------------
 en: &DEFAULT_EN
   page                       : "Page"
