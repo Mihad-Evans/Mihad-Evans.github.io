@@ -18,4 +18,4 @@ title: "Homepage"
 
 ## Other
 
-这里保存了我的常用网站，仅作个人使用[QAQ](https://mihad-evans.Agithub.io/QAQ/)
+暂无
